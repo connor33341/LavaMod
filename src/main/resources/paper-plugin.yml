@@ -1,0 +1,4 @@
+name: LavaMod
+version: '1.0-SNAPSHOT'
+main: org.connor33341.lavaMod.LavaMod
+api-version: '1.21'

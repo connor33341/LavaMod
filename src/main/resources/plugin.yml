@@ -1,0 +1,7 @@
+name: LavaMod
+version: ${project.version}
+main: org.connor33341.lavaMod.LavaMod
+api-version: '1.21'
+authors: [ "connor33341" ]
+description: Rises lava every 30 seconds
+website: https://connor33341.github.io
